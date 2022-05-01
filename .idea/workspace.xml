@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17f353d7-d190-4197-beb5-767bc59a31a5" name="Changes" comment="ttt">
+    <list default="true" id="17f353d7-d190-4197-beb5-767bc59a31a5" name="Changes" comment="ttt456454">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/123.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/123.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651392389815</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ttt456454">
+      <created>1651395567983</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651395567983</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +165,7 @@
     <MESSAGE value="gdfgfdgdgdgdgdgdfgdgdfgdfgdfgdfg" />
     <MESSAGE value="456" />
     <MESSAGE value="ttt" />
-    <option name="LAST_COMMIT_MESSAGE" value="ttt" />
+    <MESSAGE value="ttt456454" />
+    <option name="LAST_COMMIT_MESSAGE" value="ttt456454" />
   </component>
 </project>
