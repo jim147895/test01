@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17f353d7-d190-4197-beb5-767bc59a31a5" name="Changes" comment="gdfgfdgdgdgdgdgdfgdgdfgdfgdfgdfg" />
+    <list default="true" id="17f353d7-d190-4197-beb5-767bc59a31a5" name="Changes" comment="456">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/123.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/123.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651388501165</updated>
-      <workItem from="1651388505254" duration="2441000" />
+      <workItem from="1651388505254" duration="3076000" />
     </task>
     <task id="LOCAL-00001" summary="123134">
       <created>1651389497846</created>
@@ -93,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651390868605</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="456">
+      <created>1651391014480</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651391014480</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,9 +134,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123134" />
-    <MESSAGE value="456" />
     <MESSAGE value="ddtert" />
     <MESSAGE value="gdfgfdgdgdgdgdgdfgdgdfgdfgdfgdfg" />
-    <option name="LAST_COMMIT_MESSAGE" value="gdfgfdgdgdgdgdgdfgdgdfgdfgdfgdfg" />
+    <MESSAGE value="456" />
+    <option name="LAST_COMMIT_MESSAGE" value="456" />
   </component>
 </project>
